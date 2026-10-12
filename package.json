@@ -1,0 +1,9 @@
+{
+  "name": "my-wisp-server",
+  "version": "1.0.0",
+  "description": "Small Wisp (WebSocket to TCP) proxy for Eaglercraft / OneClient",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "ws": "^8.18.0" }
+}
